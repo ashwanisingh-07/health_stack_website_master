@@ -1,0 +1,27 @@
+# Mac
+.DS_Store
+
+.vscode
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__
+*.pyc
+
+
+# Django stuff:
+#local_settings.py
+# db.sqlite3
+
+
+# Environments
+.env
+.myenv
+env/
+env_dir/
+venv/
+ENV/
+myenv/
+myenv
+
+# Mkdocs
+site
