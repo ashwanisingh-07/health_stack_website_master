@@ -5,6 +5,7 @@ import cors from 'cors'
 import { PORT, DB_URI,EMAIL,EMAIL_PASS} from './config'
 import errorHandler from './middleware/errorHandler'
 const app = express()
+// Comments
 // console.log(DB_URI)
 // console.log(EMAIL)
 // console.log(EMAIL_PASS)
